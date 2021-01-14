@@ -1,0 +1,36 @@
+{
+    "CarDrive": {
+        "checkpoints": [
+            {
+                "steps": 499875,
+                "file_path": "results/ppo_rnn-v1/CarDrive/CarDrive-499875.onnx",
+                "reward": 19.322335759798687,
+                "creation_time": 1610148404.9394088
+            },
+            {
+                "steps": 999629,
+                "file_path": "results/ppo_rnn-v1/CarDrive/CarDrive-999629.onnx",
+                "reward": 20.668972492218018,
+                "creation_time": 1610149119.5930939
+            },
+            {
+                "steps": 1010629,
+                "file_path": "results/ppo_rnn-v1/CarDrive/CarDrive-1010629.onnx",
+                "reward": 20.668972492218018,
+                "creation_time": 1610149120.723416
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1010629,
+            "file_path": "results/ppo_rnn-v1/CarDrive.onnx",
+            "reward": 20.668972492218018,
+            "creation_time": 1610149120.723416
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.1",
+        "tensorflow_version": -1
+    }
+}

@@ -1,0 +1,82 @@
+Base path: '/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2020.1.17f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=17013 outsize=4304 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=12919 outsize=4660 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=12919 outsize=3171 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=4442 outsize=3438 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=12807 outsize=2958 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=12807 outsize=2959 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=12807 outsize=2913 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=2611 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=2469 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=2648 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=3065 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=2471 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=2725 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=2970 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=2591 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=1371 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=1442 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=1454 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=1537 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=1500 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=1806 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=1241 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=57129 outsize=1463 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=5113 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=2547 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=3824 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=3779 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=2576 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=2638 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=2471 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=2588 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=2467 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=2706 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=2845 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79953 outsize=4649 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=95078 outsize=34965 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=95078 outsize=23587 ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=1064 outsize=790 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR dkw=UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=1298 outsize=1872 kw=SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER dkw=INSTANCING_ON _ALPHATEST_ON _ALPHABLEND_ON _SPECGLOSSMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _PARALLAXMAP SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING ok=1
+
+Quitting shader compiler process

@@ -1,0 +1,48 @@
+{
+    "CarDrive": {
+        "checkpoints": [
+            {
+                "steps": 3499661,
+                "file_path": "results/ppo_rnn_resnet-v1/CarDrive/CarDrive-3499661.onnx",
+                "reward": null,
+                "creation_time": 1610387188.173341
+            },
+            {
+                "steps": 3999816,
+                "file_path": "results/ppo_rnn_resnet-v1/CarDrive/CarDrive-3999816.onnx",
+                "reward": null,
+                "creation_time": 1610387444.626967
+            },
+            {
+                "steps": 4499461,
+                "file_path": "results/ppo_rnn_resnet-v1/CarDrive/CarDrive-4499461.onnx",
+                "reward": 397.44196128845215,
+                "creation_time": 1610387696.674301
+            },
+            {
+                "steps": 4999260,
+                "file_path": "results/ppo_rnn_resnet-v1/CarDrive/CarDrive-4999260.onnx",
+                "reward": null,
+                "creation_time": 1610387953.844126
+            },
+            {
+                "steps": 5009260,
+                "file_path": "results/ppo_rnn_resnet-v1/CarDrive/CarDrive-5009260.onnx",
+                "reward": null,
+                "creation_time": 1610387954.336928
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5009260,
+            "file_path": "results/ppo_rnn_resnet-v1/CarDrive.onnx",
+            "reward": null,
+            "creation_time": 1610387954.336928
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.1",
+        "tensorflow_version": -1
+    }
+}

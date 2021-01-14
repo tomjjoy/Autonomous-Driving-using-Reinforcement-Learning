@@ -1,0 +1,48 @@
+{
+    "CarDrive": {
+        "checkpoints": [
+            {
+                "steps": 3499358,
+                "file_path": "results/sac_resnet-v1/CarDrive/CarDrive-3499358.onnx",
+                "reward": null,
+                "creation_time": 1610398164.552295
+            },
+            {
+                "steps": 3999744,
+                "file_path": "results/sac_resnet-v1/CarDrive/CarDrive-3999744.onnx",
+                "reward": null,
+                "creation_time": 1610398716.0046642
+            },
+            {
+                "steps": 4499464,
+                "file_path": "results/sac_resnet-v1/CarDrive/CarDrive-4499464.onnx",
+                "reward": null,
+                "creation_time": 1610399272.571454
+            },
+            {
+                "steps": 4999110,
+                "file_path": "results/sac_resnet-v1/CarDrive/CarDrive-4999110.onnx",
+                "reward": null,
+                "creation_time": 1610399825.310069
+            },
+            {
+                "steps": 5008110,
+                "file_path": "results/sac_resnet-v1/CarDrive/CarDrive-5008110.onnx",
+                "reward": null,
+                "creation_time": 1610399826.176575
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5008110,
+            "file_path": "results/sac_resnet-v1/CarDrive.onnx",
+            "reward": null,
+            "creation_time": 1610399826.176575
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.1",
+        "tensorflow_version": -1
+    }
+}
