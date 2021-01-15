@@ -82,3 +82,7 @@ So I decided to test my models in 2 phases:
 * Obstacles: I would like to increase the number of objects for the vehicle to take into account when driving (i.e. people, traffic lights, right aways, etc.)
 * Computer Vision: Implement an Object Detection component to the Autonomous Vehicles
 * More Training!: Apply more training time for models to become more and more accurate and safe.
+
+
+## Credit
+Just wanted to give credit where credit is due to Adam Streck. I used his environment for my project; this is the [GitHub](https://github.com/xstreck1/cAr-drIve) repo used.
